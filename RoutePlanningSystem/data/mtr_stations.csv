@@ -1,0 +1,93 @@
+Station ID,English Name,WI-FI,Mobile Charging,Toilet,Mall,Tourist Service,Breastfeeding Area
+0,Central,1,1,1,1,1,1
+1,Admiralty,1,0,1,1,1,1
+2,Tsim Sha Tsui,1,0,1,1,1,1
+3,Jordan,1,0,1,1,1,1
+4,Yau Ma Tei,1,0,1,1,1,1
+5,Mong Kok,1,0,1,1,1,1
+6,Shek Kip Mei,1,0,1,0,1,0
+7,Kowloon Tong,1,1,1,0,1,0
+8,Lok Fu,1,1,1,0,1,0
+9,Wong Tai Sin,1,1,1,0,0,0
+10,Diamond Hill,1,1,1,0,0,0
+11,Choi Hung,1,1,1,0,0,1
+12,Kowloon Bay,0,1,1,0,0,1
+13,Ngau Tau Kok,0,1,1,0,0,0
+14,Kwun Tong,0,1,1,0,1,0
+15,Prince Edward,0,1,0,0,1,0
+16,Sham Shui Po,0,0,0,1,1,0
+17,Cheung Sha Wan,0,0,0,1,1,1
+18,Lai Chi Kok,0,0,0,1,1,1
+19,Mei Foo,0,0,1,1,1,1
+20,Lai King,0,0,1,1,1,1
+21,Kwai Fong,0,0,1,1,1,0
+22,Kwai Hing,0,1,1,1,0,0
+23,Tai Wo Hau,1,1,1,1,0,0
+24,Tsuen Wan,1,1,1,0,0,0
+25,Sheung Wan,1,1,0,0,0,0
+26,Wan Chai,1,1,1,0,0,0
+27,Causeway Bay,1,0,1,0,1,1
+28,Tin Hau,1,0,1,0,1,1
+29,Fortress Hill,1,1,1,0,1,1
+30,North Point,1,0,1,0,1,1
+31,Quarry Bay,1,0,1,0,1,1
+32,Tai Koo,1,0,1,0,1,1
+33,Sai Wan Ho,1,0,1,0,1,1
+34,Shau Kei Wan,1,1,1,0,1,1
+35,Heng Fa Chuen,1,1,1,0,1,0
+36,Chai Wan,1,1,1,1,1,0
+37,Lam Tin,1,1,0,1,1,0
+38,Hong Kong,1,1,0,1,1,0
+39,Olympic,0,1,0,1,0,0
+40,Tung Chung,0,1,1,1,0,0
+41,Kowloon ,0,1,1,1,0,0
+42,Tsing Yi,0,0,1,1,0,0
+43,Airport,0,0,1,1,0,0
+44,Yau Tong,0,0,1,0,1,1
+45,Tiu Keng Leng,0,1,1,0,1,1
+46,Tseung Kwan O,0,0,1,0,1,0
+47,Hang Hau,0,0,1,0,1,0
+48,Po Lam,0,0,1,0,1,0
+49,Nam Cheong,0,0,1,1,1,0
+50,Sunny Bay,0,0,1,0,1,1
+51,Disneyland Resort,1,0,1,0,1,1
+52,AsiWorld-Expo,1,0,1,0,1,1
+53,LOHAS Park,1,0,0,0,0,1
+54,Hung Hom,1,1,0,0,0,1
+55,Mong Kok East,1,1,0,0,0,1
+56,Tai Wai,1,1,0,0,1,0
+57,Sha Tin,1,1,0,0,0,1
+58,Fo Tan,1,1,0,0,0,1
+59,University,1,1,0,0,0,1
+60,Tai Po Market,1,1,1,0,0,0
+61,Tai Wo,1,1,1,0,1,0
+62,Fanling,0,0,1,0,1,0
+63,Sheung Shui,0,0,1,1,1,0
+64,Lo Wu,0,0,1,0,1,0
+65,Lok Ma Chau,0,0,1,1,1,1
+66,East Tsim Sha Tsui,0,0,1,1,1,1
+67,Sai Ying Pun,0,0,1,1,0,1
+68,HKU,0,0,1,0,0,1
+69,Kennedy Town,0,0,1,0,0,1
+70,Ho Man Tin,0,0,1,0,0,1
+71,Whampo,0,0,1,0,1,1
+72,Ocean Park,0,0,1,0,0,1
+73,Wong Chuk Hang,0,0,1,0,0,0
+74,Lei Tung,0,1,1,0,0,0
+75,South Horizons,1,1,1,0,1,0
+76,Che Kung Temple,1,1,1,0,1,0
+77,Sha Tin Wai,1,1,1,0,1,0
+78,City One,1,1,0,0,1,0
+79,Shek Mun,1,1,0,1,1,1
+80,Tai Shui Hang,1,1,0,1,1,1
+81,Heng On,1,1,0,1,1,1
+82,Ma On Shan,1,1,0,1,1,1
+83,Wu Kai Sha,1,1,0,0,1,1
+84,Austin,1,0,0,0,1,1
+85,Tsuen Wan West,1,0,0,0,1,1
+86,Kam Sheung Road,0,0,0,0,0,1
+87,Yuen Long,0,0,0,0,0,1
+88,Long Ping,0,0,0,0,0,1
+89,Tin Shui Wai,0,0,1,0,0,1
+90,Siu Hong,0,0,1,0,0,1
+91,Tuen Mun,0,0,1,1,1,1
